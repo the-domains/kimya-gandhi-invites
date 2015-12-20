@@ -1,7 +1,7 @@
 name: Kimya Gandhi Invites
 favicon: null
 layout_spectrum: 0.87507
-typography_spectrum: 0.458349232096225
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5232678710017353
-  lightness: 0.5553437736816704
-  saturation: 0.9400119960773736
+  brandStrength: 0.1875
+  lightness: 0.6875
+  saturation: 0.8125
   rhythmicContrast: 0.8194437599740922
 purpose: []
