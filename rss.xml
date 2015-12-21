@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kimya Gandhi Invites]]></title>
-        <description><![CDATA[Kimya Gandhi Invites]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Custom Wedding Invitations]]></title>
+        <description><![CDATA[Custom Wedding Invitations]]></description>
+        <link>https://thegrid.ai/kimya-gandhi-invites/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 23:47:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 04:46:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kimya-gandhi-invites/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bdcf0ed-7c60-4cca-8bf0-fa31ffb36de9.jpg">]]></description>
+            <link>https://thegrid.ai/kimya-gandhi-invites/2e5d08f5-adf2-417f-9565-1b10ea2c72b4/index.html</link>
+            <guid isPermaLink="false">2e5d08f5-adf2-417f-9565-1b10ea2c72b4</guid>
+            <pubDate>Mon, 21 Dec 2015 04:46:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gold]]></title>
             <description><![CDATA[<article><h1>Gold</h1><p>So here’s a super delayed post about another of my wedding card designs. This one is special again because it was made for a very special friend. Pushkaraj Deshpande or Puki as we all fondly call him has been one of my oldest and most dear friends from school. He is crazy, funny, adorable, always making people laugh but above all a solid friend who you can count on for anything, anytime. Needless to say it was great to design for him and be a part of the celebrations.
 
 The card design is simple yet detailed and very gold. The cover itself is an envelope that holds the invitation insert. The gold embossed envelope can be used as a photo frame after taking the insert out.</p></article>]]></description>
-            <link>undefinedgold/index.html</link>
+            <link>https://thegrid.ai/kimya-gandhi-invites/gold/index.html</link>
             <guid isPermaLink="false">5ca225d1-bce8-4ae3-9173-790820b6d002</guid>
             <pubDate>Sun, 20 Dec 2015 23:47:01 GMT</pubDate>
         </item>
